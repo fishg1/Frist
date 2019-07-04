@@ -49,7 +49,10 @@ public class Frist
 		{
 			event.getRegistry().registerAll
 			(
-				ItemList.frospal = new Item(new Item.Properties().group(ItemGroup.MISC)).setRegistryName(location("frospal"))
+				ItemList.frospal = new Item(new Item.Properties().group(ItemGroup.MISC)).setRegistryName(location("frospal")),
+				ItemList.amphure = new Item(new Item.Properties().group(ItemGroup.MISC)).setRegistryName(location("amphure")),
+				ItemList.gasteel = new Item(new Item.Properties().group(ItemGroup.MISC)).setRegistryName(location("gasteel")),
+				ItemList.frigidTablet = new Item(new Item.Properties().group(ItemGroup.MISC)).setRegistryName(location("frigidTablet"))
 			);		
 			logger.info("Items registered.");
 		}
