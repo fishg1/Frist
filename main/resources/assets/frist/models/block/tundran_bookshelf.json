@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "frist:block/fristum_brick",
+        "side": "frist:block/tundran_bookshelf"
+    }
+}

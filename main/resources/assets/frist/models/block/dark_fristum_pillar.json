@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "frist:block/dark_fristum_pillar_top",
+        "side": "frist:block/dark_fristum_pillar_side"
+    }
+}

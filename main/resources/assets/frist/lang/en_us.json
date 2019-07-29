@@ -1,6 +1,34 @@
 {
+	//ITEMS
 	"item.frist.frospal": "Frospal",
 	"item.frist.amphure": "Amphure",
 	"item.frist.gasteel": "Gasteel",
-	"item.frist.frigidTablet": "Frigid Tablet"
+	"item.frist.frist_portal": "Frigid Tablet",
+	
+	//BLOCKS
+	"block.frist.fristum": "Fristum",
+	"block.frist.dark_fristum": "Dark Fristum",
+	"block.frist.white_fristum": "White Fristum",
+	
+	"block.frist.fristum_brick": "Fristum Bricks",
+	"block.frist.fristum_lamp": "Fristum Lamp",
+	"block.frist.tundran_bookshelf": "Tundran Bookshelf",
+	"block.frist.dark_fristum_brick": "Dark Fristum Bricks",
+	"block.frist.dark_fristum_pillar": "Dark Fristum Pillar",
+	"block.frist.white_fristum_brick": "White Fristum Bricks",
+	
+	"block.frist.amphure_ore": "Amphure Ore",
+	"block.frist.frospal_ore": "Frospal Ore",
+	"block.frist.sleet": "Sleet",
+	"block.frist.packed_sleet": "Packed Sleet",
+	"block.frist.packed_blue_ice": "Packed Blue Ice",
+	
+	"block.frist.gasteel_brick": "Gasteel Brick",
+	"block.frist.gasteel_lamp": "Gasteel Lamp",
+	"block.frist.gasteel_pillar": "Gasteel Pillar",
+	
+	
+	//TABS
+	"itemGroup.frist_blocks": "Frist Blocks",
+	"itemGroup.frist_items": "Frist Items"
 }
